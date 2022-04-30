@@ -1,2 +1,1 @@
-# fuzzylogic-crane
-Crane Controller Using Fuzzy Logic
+# Crane Controller Using Fuzzy Logic
